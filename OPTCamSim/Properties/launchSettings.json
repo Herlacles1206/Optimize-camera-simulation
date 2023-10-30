@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OPTCamSim": {
+      "commandName": "Project",
+      "commandLineArgs": "dcnc"
+    }
+  }
+}

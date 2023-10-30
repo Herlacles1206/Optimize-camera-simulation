@@ -1,0 +1,33 @@
+D:\zVLT\cam simulation\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.GeneratedMSBuildEditorConfig.editorconfig
+D:\zVLT\cam simulation\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.AssemblyInfoInputs.cache
+D:\zVLT\cam simulation\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.AssemblyInfo.cs
+D:\zVLT\cam simulation\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.csproj.CoreCompileInputs.cache
+D:\zVLT\cam simulation\OptCamSim\Net3dBool\bin\Debug\net472\Net3dBool.dll
+D:\zVLT\cam simulation\OptCamSim\Net3dBool\bin\Debug\net472\Net3dBool.pdb
+D:\zVLT\cam simulation\OptCamSim\Net3dBool\bin\Debug\net472\Poly2Tri.dll
+D:\zVLT\cam simulation\OptCamSim\Net3dBool\bin\Debug\net472\Poly2Tri.pdb
+D:\zVLT\cam simulation\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.csproj.CopyComplete
+D:\zVLT\cam simulation\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.dll
+D:\zVLT\cam simulation\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.pdb
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.csprojAssemblyReference.cache
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.AssemblyInfo.cs
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\Net3dBool\bin\Debug\net472\Net3dBool.dll
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\Net3dBool\bin\Debug\net472\Net3dBool.pdb
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\Net3dBool\bin\Debug\net472\Poly2Tri.dll
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\Net3dBool\bin\Debug\net472\Poly2Tri.pdb
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.csproj.CopyComplete
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.dll
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.pdb
+E:\project\c#\OptCamSim\Net3dBool\bin\Debug\net472\Net3dBool.dll
+E:\project\c#\OptCamSim\Net3dBool\bin\Debug\net472\Net3dBool.pdb
+E:\project\c#\OptCamSim\Net3dBool\bin\Debug\net472\Poly2Tri.dll
+E:\project\c#\OptCamSim\Net3dBool\bin\Debug\net472\Poly2Tri.pdb
+E:\project\c#\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.csproj.AssemblyReference.cache
+E:\project\c#\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\c#\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.AssemblyInfoInputs.cache
+E:\project\c#\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.AssemblyInfo.cs
+E:\project\c#\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.csproj.CoreCompileInputs.cache
+E:\project\c#\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.csproj.CopyComplete
+E:\project\c#\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.dll
+E:\project\c#\OptCamSim\Net3dBool\obj\Debug\net472\Net3dBool.pdb

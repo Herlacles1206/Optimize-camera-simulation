@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Net3dBool</RootNamespace>
+    <AssemblyName>Net3dBool</AssemblyName>
+    <TargetFramework>net472</TargetFramework>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Poly2Tri">
+      <HintPath>..\poly2tri-cs-master\bin\Debug\Poly2Tri.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

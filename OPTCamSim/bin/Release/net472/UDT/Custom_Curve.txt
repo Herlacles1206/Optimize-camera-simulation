@@ -1,0 +1,7 @@
+TLN	Custom				
+X0	Y100
+X10	Y100
+X10	Y50
+X20	Y30
+X10	Y0
+X0	Y0	

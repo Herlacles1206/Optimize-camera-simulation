@@ -1,0 +1,76 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>OPTCAMSim</RootNamespace>
+    <AssemblyName>OPTCAMSim</AssemblyName>
+    <TargetFramework>net472</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>WinExe</OutputType>
+    <StartupObject>OPTCAMSim.MainClass</StartupObject>
+    <Platforms>AnyCPU;x64</Platforms>
+    <Copyright>HEXAGON YAZILIM, izmir-Turkey</Copyright>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="DemoForm — копия.cs" />
+    <Compile Remove="Utils.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Shaders\main_shader_fs.txt" />
+    <None Remove="Shaders\main_shader_vs.txt" />
+    <None Remove="Shaders\shadows_shader_fs.txt" />
+    <None Remove="Shaders\shadows_shader_vs.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Shaders\main_shader_fs.txt" />
+    <EmbeddedResource Include="Shaders\main_shader_vs.txt" />
+    <EmbeddedResource Include="Shaders\shadows_shader_fs.txt" />
+    <EmbeddedResource Include="Shaders\shadows_shader_vs.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Net3dBool\Net3dBool.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="netDxf">
+      <HintPath>..\netDxf\netDxf-master\netDxf\bin\Debug\netDxf.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>D:\HEXAGON SOFTWARE PROJECTS\OPTCAM\helper_dlls\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK">
+      <HintPath>bin\Debug\net472\OpenTK.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK.GLControl">
+      <HintPath>bin\Debug\net472\OpenTK.GLControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Poly2Tri">
+      <HintPath>bin\Debug\net472\Poly2Tri.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+</Project>

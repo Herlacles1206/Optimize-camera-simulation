@@ -1,0 +1,12 @@
+E:\project\c#\OptCamSim\Net3dBool\bin\Release\net472\Net3dBool.dll
+E:\project\c#\OptCamSim\Net3dBool\bin\Release\net472\Net3dBool.pdb
+E:\project\c#\OptCamSim\Net3dBool\bin\Release\net472\Poly2Tri.dll
+E:\project\c#\OptCamSim\Net3dBool\bin\Release\net472\Poly2Tri.pdb
+E:\project\c#\OptCamSim\Net3dBool\obj\Release\net472\Net3dBool.csproj.AssemblyReference.cache
+E:\project\c#\OptCamSim\Net3dBool\obj\Release\net472\Net3dBool.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\c#\OptCamSim\Net3dBool\obj\Release\net472\Net3dBool.AssemblyInfoInputs.cache
+E:\project\c#\OptCamSim\Net3dBool\obj\Release\net472\Net3dBool.AssemblyInfo.cs
+E:\project\c#\OptCamSim\Net3dBool\obj\Release\net472\Net3dBool.csproj.CoreCompileInputs.cache
+E:\project\c#\OptCamSim\Net3dBool\obj\Release\net472\Net3dBool.csproj.CopyComplete
+E:\project\c#\OptCamSim\Net3dBool\obj\Release\net472\Net3dBool.dll
+E:\project\c#\OptCamSim\Net3dBool\obj\Release\net472\Net3dBool.pdb

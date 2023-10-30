@@ -1,0 +1,73 @@
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.csproj.AssemblyReference.cache
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.FormImportDXF.resources
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.FormSettings.resources
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.FormTools.resources
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.GlControlExt.resources
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.MainForm.resources
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.Properties.Resources.resources
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.csproj.GenerateResource.cache
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.GeneratedMSBuildEditorConfig.editorconfig
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.AssemblyInfoInputs.cache
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.AssemblyInfo.cs
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.csproj.CoreCompileInputs.cache
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\bin\Debug\net472\OPTCAMSim.exe.config
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\bin\Debug\net472\OPTCAMSim.exe
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\bin\Debug\net472\OPTCAMSim.pdb
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\bin\Debug\net472\Newtonsoft.Json.dll
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\bin\Debug\net472\OpenTK.dll
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\bin\Debug\net472\OpenTK.GLControl.dll
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\bin\Debug\net472\Net3dBool.dll
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\bin\Debug\net472\netDxf.dll
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\bin\Debug\net472\Poly2Tri.dll
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\bin\Debug\net472\Net3dBool.pdb
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\bin\Debug\net472\netDxf.pdb
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\bin\Debug\net472\Poly2Tri.pdb
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.csproj.CopyComplete
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.exe
+D:\zVLT\cam simulation\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.pdb
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.csprojAssemblyReference.cache
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.FormImportDXF.resources
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.FormSettings.resources
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.FormTools.resources
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.GlControlExt.resources
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.MainForm.resources
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.Properties.Resources.resources
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.csproj.GenerateResource.cache
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.AssemblyInfo.cs
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\bin\Debug\net472\OPTCAMSim.exe.config
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\bin\Debug\net472\OPTCAMSim.exe
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\bin\Debug\net472\OPTCAMSim.pdb
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\bin\Debug\net472\netDxf.dll
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\bin\Debug\net472\Net3dBool.pdb
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\bin\Debug\net472\netDxf.pdb
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\bin\Debug\net472\netDxf.xml
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\bin\Debug\net472\Poly2Tri.pdb
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.csproj.CopyComplete
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.exe
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.pdb
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\bin\Debug\net472\Net3dBool.dll
+C:\Users\User\Downloads\OptCamSim_compiled\OptCamSim\OPTCamSim\bin\Debug\net472\Newtonsoft.Json.dll
+E:\project\c#\OptCamSim\OPTCamSim\bin\Debug\net472\OPTCAMSim.exe.config
+E:\project\c#\OptCamSim\OPTCamSim\bin\Debug\net472\OPTCAMSim.exe
+E:\project\c#\OptCamSim\OPTCamSim\bin\Debug\net472\OPTCAMSim.pdb
+E:\project\c#\OptCamSim\OPTCamSim\bin\Debug\net472\Newtonsoft.Json.dll
+E:\project\c#\OptCamSim\OPTCamSim\bin\Debug\net472\Net3dBool.dll
+E:\project\c#\OptCamSim\OPTCamSim\bin\Debug\net472\netDxf.dll
+E:\project\c#\OptCamSim\OPTCamSim\bin\Debug\net472\Net3dBool.pdb
+E:\project\c#\OptCamSim\OPTCamSim\bin\Debug\net472\netDxf.pdb
+E:\project\c#\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.csproj.AssemblyReference.cache
+E:\project\c#\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.FormImportDXF.resources
+E:\project\c#\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.FormSettings.resources
+E:\project\c#\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.FormTools.resources
+E:\project\c#\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.GlControlExt.resources
+E:\project\c#\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.MainForm.resources
+E:\project\c#\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.Properties.Resources.resources
+E:\project\c#\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.csproj.GenerateResource.cache
+E:\project\c#\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\c#\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.AssemblyInfoInputs.cache
+E:\project\c#\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.AssemblyInfo.cs
+E:\project\c#\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.csproj.CoreCompileInputs.cache
+E:\project\c#\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCamSim.csproj.CopyComplete
+E:\project\c#\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.exe
+E:\project\c#\OptCamSim\OPTCamSim\obj\Debug\net472\OPTCAMSim.pdb

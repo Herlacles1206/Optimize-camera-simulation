@@ -1,0 +1,8 @@
+﻿#version 420 core
+in vec3 objectColor;
+void main()
+{             
+    //gl_FragDepth = gl_FragCoord.z;
+	if (objectColor==vec3(0.933333337, 0.509803951, 0.933333337)) // no shader for toolObj
+		discard;
+}
